@@ -1,0 +1,5 @@
+﻿FILE_FORMAT=100
+ENTRYNAME=Scrolling Issue.xlsx
+ENTRYTYPE=blob
+ENTRYREFERENCE=TM1:///blob/PUBLIC/.\}externals\Scrolling Issue_20240730150605.xlsx
+REMOVEBLOBONDELETE=Yes

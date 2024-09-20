@@ -1,0 +1,5 @@
+﻿FILE_FORMAT=100
+ENTRYNAME=tm1set_report_named_range_mdx.xlsx
+ENTRYTYPE=blob
+ENTRYREFERENCE=TM1:///blob/PUBLIC/.\}externals\tm1set_report_named_range_mdx_20231107212115.xlsx
+REMOVEBLOBONDELETE=Yes

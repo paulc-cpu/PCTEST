@@ -1,0 +1,5 @@
+﻿FILE_FORMAT=100
+ENTRYNAME=tm1set_report.xlsx
+ENTRYTYPE=blob
+ENTRYREFERENCE=TM1:///blob/PUBLIC/.\}externals\tm1set_report_20240425075402.xlsx
+REMOVEBLOBONDELETE=Yes

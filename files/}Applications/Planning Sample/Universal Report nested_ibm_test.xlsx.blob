@@ -1,0 +1,5 @@
+﻿FILE_FORMAT=100
+ENTRYNAME=Universal Report nested_ibm_test.xlsx
+ENTRYTYPE=blob
+ENTRYREFERENCE=TM1:///blob/PUBLIC/.\}externals\Universal Report nested_ibm_test_20240716124347.xlsx
+REMOVEBLOBONDELETE=Yes

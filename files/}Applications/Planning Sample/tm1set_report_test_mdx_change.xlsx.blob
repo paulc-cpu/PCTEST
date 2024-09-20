@@ -1,0 +1,5 @@
+﻿FILE_FORMAT=100
+ENTRYNAME=tm1set_report_test_mdx_change.xlsx
+ENTRYTYPE=blob
+ENTRYREFERENCE=TM1:///blob/PUBLIC/.\}externals\tm1set_report_test_mdx_change_20231109091915.xlsx
+REMOVEBLOBONDELETE=Yes

@@ -1,0 +1,16 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Reports",
+	"Elements":
+	[
+		{
+			"Name":"Report_1",
+			"Type":"String"
+		},
+		{
+			"Name":"Report_2",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

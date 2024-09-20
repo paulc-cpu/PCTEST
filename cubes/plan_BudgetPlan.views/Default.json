@@ -1,0 +1,54 @@
+{
+	"@type":"MDXView",
+	"Name":"Default",
+	"MDX@Code.link":"Default.mdx",
+	"Meta" : 
+	{
+		"Aliases" : 
+		{
+			"[plan_business_unit].[plan_business_unit]" : "BusinessUnit",
+			"[plan_chart_of_accounts].[plan_chart_of_accounts]" : "AccountName",
+			"[plan_department].[plan_department]" : "Department",
+			"[plan_time].[plan_time]" : "Time",
+			"[plan_version].[plan_version]" : "VersionName"
+		},
+		"ContextSets" : 
+		{
+			"[plan_business_unit].[plan_business_unit]" : 
+			{
+				"IsPublic" : true,
+				"SubsetName" : "All Business Units"
+			},
+			"[plan_department].[plan_department]" : 
+			{
+				"IsPublic" : true,
+				"SubsetName" : "All Departments"
+			},
+			"[plan_exchange_rates].[plan_exchange_rates]" : 
+			{
+				"IsPublic" : true,
+				"SubsetName" : "local exchange rate"
+			},
+			"[plan_source].[plan_source]" : 
+			{
+				"IsPublic" : true,
+				"SubsetName" : "input"
+			},
+			"[plan_version].[plan_version]" : 
+			{
+				"IsPublic" : true,
+				"SubsetName" : "All Versions"
+			}
+		},
+		"ExpandAboves" : 
+		{
+			"[plan_business_unit].[plan_business_unit]" : false,
+			"[plan_chart_of_accounts].[plan_chart_of_accounts]" : false,
+			"[plan_department].[plan_department]" : false,
+			"[plan_exchange_rates].[plan_exchange_rates]" : false,
+			"[plan_source].[plan_source]" : false,
+			"[plan_time].[plan_time]" : false,
+			"[plan_version].[plan_version]" : false
+		}
+	}
+}

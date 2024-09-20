@@ -1,0 +1,5 @@
+﻿FILE_FORMAT=100
+ENTRYNAME=Universal Report with TM1val().xlsx
+ENTRYTYPE=blob
+ENTRYREFERENCE=TM1:///blob/PUBLIC/.\}externals\Universal Report with TM1val()_20240604150255.xlsx
+REMOVEBLOBONDELETE=Yes

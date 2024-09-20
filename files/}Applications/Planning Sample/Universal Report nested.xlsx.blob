@@ -1,0 +1,5 @@
+﻿FILE_FORMAT=100
+ENTRYNAME=Universal Report nested.xlsx
+ENTRYTYPE=blob
+ENTRYREFERENCE=TM1:///blob/PUBLIC/.\}externals\Universal Report nested_20240724123947.xlsx
+REMOVEBLOBONDELETE=Yes

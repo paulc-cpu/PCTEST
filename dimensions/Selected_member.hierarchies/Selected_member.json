@@ -1,0 +1,16 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Selected_member",
+	"Elements":
+	[
+		{
+			"Name":"Subset",
+			"Type":"String"
+		},
+		{
+			"Name":"Selected_by_user",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

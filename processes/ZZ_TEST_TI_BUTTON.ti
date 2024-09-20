@@ -1,0 +1,9 @@
+#region Prolog
+
+CellPutS( P1, 'plan_Control', 'Data Source', 'Setting' );
+CellPutS( P2, 'plan_Control', 'Corporate Currency', 'Setting' );
+CellPutS( P3, 'plan_Control', 'P3', 'Setting' );
+
+
+
+#endregion

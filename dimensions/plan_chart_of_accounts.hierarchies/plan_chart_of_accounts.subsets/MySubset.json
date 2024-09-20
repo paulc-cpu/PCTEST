@@ -1,0 +1,14 @@
+{
+	"@type":"Subset",
+	"Name":"MySubset",
+	"Alias":"AccountName",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('41101')"
+		},
+		{
+			"@id":"Dimensions('plan_chart_of_accounts')/Hierarchies('plan_chart_of_accounts')/Elements('42201')"
+		}
+	]
+}

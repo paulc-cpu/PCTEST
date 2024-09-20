@@ -1,0 +1,20 @@
+{
+	"@type":"Cube",
+	"Name":"Selection_cube",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('}Clients')"
+		},
+		{
+			"@id":"Dimensions('}Dimensions')"
+		},
+		{
+			"@id":"Dimensions('Reports')"
+		},
+		{
+			"@id":"Dimensions('Selected_member')"
+		}
+	],
+	"Views@Code.links":[]
+}
