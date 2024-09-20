@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"SET_3",
-	"Expression":"{[plan_chart_of_accounts].[plan_chart_of_accounts].MEMBERS}"
-}
