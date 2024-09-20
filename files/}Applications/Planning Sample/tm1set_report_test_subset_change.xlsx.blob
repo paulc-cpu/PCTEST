@@ -1,5 +1,0 @@
-﻿FILE_FORMAT=100
-ENTRYNAME=tm1set_report_test_subset_change.xlsx
-ENTRYTYPE=blob
-ENTRYREFERENCE=TM1:///blob/PUBLIC/.\}externals\tm1set_report_test_subset_change_20231109092207.xlsx
-REMOVEBLOBONDELETE=Yes
